@@ -4,7 +4,7 @@
     .minimum_zig_version = "0.12.0",
     .dependencies = .{
         .code_reminder = .{
-            .url = "https://github.com/swan-www/code_reminder/archive/refs/tags/v1.0.0.tar.gz",
+            .url = "https://github.com/swan-www/code_reminder/archive/refs/tags/v1_0_1.tar.gz",
 			.hash = "1220caec7bf1b2cf992b5443703c8df904488477a96395acca3cf339f2cb9ef55513",
         },
     },
